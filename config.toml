@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jojogeorge.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Jojo's Portfolio"
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "St. Clair college"
   orgLocal = "Anywhere"
   description = "This is the personal website of Jojo George."
-  favicon = "/img/jo.ico"
-  logo = "/img/jo.jpg"
+  favicon = "/img/physics.gif"
+  logo = "/img/table-lamp.gif"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "peach"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
